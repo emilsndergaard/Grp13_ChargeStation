@@ -1,0 +1,7 @@
+﻿namespace ChargeStationApplication
+{
+    class TestClass
+    {
+        
+    }
+}

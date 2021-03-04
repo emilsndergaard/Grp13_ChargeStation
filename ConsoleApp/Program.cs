@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp
+namespace ChargeStationApplication
 {
     class Program
     {
@@ -8,5 +8,7 @@ namespace ConsoleApp
         {
             Console.WriteLine("Hello World!");
         }
+
+       
     }
 }
